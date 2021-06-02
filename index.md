@@ -11,5 +11,5 @@ This lab was an introduction to Postman and used GET and POST verbs to handle se
 - Part 6: Add POST handling to server application and respond with JSON
 - Part 7: Use Postman and POST request
 
-## The following is an example of Postman output
-![Example of Postman]()
+## The following is a portion of our server code
+![Example of server code](https://github.com/nataleeirwin/cit281-lab5/blob/main/lab%205%20files/server%20example.png)
